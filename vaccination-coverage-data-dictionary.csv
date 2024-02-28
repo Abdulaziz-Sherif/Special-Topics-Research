@@ -1,0 +1,595 @@
+﻿Associated link / Lien correspondant,Column header / Intitulé de la colonne,Description (EN),Description (FR),Data caveats (EN),Notes relatives aux données (FR),"Type (and format or values, if applicable) / Type (et format ou valeurs lorsqu'applicable)"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,week_end*,"The last day included in the cumulative data update, i.e., data as of the date indicated in this variable includes the cumulative number of doses administered since December 14, 2020.
+ 
+ These data were updated:
+- Every week until April 10, 2022
+- Every 2 weeks until May 22, 2022
+- Every 4 weeks until April 23, 2023
+- Every 8 weeks until June 18, 2023
+- Every 12 weeks since June 18, 2023","La dernière date incluse dans la mise à jour des données cumulatives. Autrement dit, les données à la date indiquée par cette variable incluent le nombre cumulatif de doses administrées depuis le 14 décembre 2020.
+ 
+ Ces données ont été mises à jour :
+- Chaque semaine jusqu'au 10 avril 2022
+- Toutes les 2 semaines jusqu'au 22 mai 2022
+- Toutes les 4 semaines jusqu'au 23 avril 2023
+- Toutes les 8 semaines jusqu'au 18 juin 2023
+- Toutes les 12 semaines depuis le 18 juin 2023
+ ","The COVID-19 vaccination campaign began in Canada on December 14, 2020. Please see the data availability section linked in this cell for specific dates.",La campagne de vaccination contre la COVID-19 a commencé au Canada le 14 décembre 2020. Veuillez consulter la section sur la disponibilité des données liée dans cette cellule pour connaître les dates précises.,"Type: Date
+ 
+ Format: Date format
+ YYYY-MM-DD
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,pruid*,"The standard geographical classification (SGC) code of the jurisdiction (i.e., province or territory) submitting the report.",La classification géographique type (CGT) de la région (c.à-d. province or territoire) qui soumet le rapport.,,,"Type: Number
+ 
+ Values: 
+ 1 = Canada/Canada
+ 24 = Quebec/Québec
+ 35 = Ontario/Ontario
+ 59 = British Columbia/Colombie-Britannique
+ 48 = Alberta/Alberta
+ 47 = Saskatchewan/Saskatchewan
+ 12 = Nova Scotia/Nouvelle-Écosse
+ 46 = Manitoba/Manitoba
+ 10 = Newfoundland and Labrador/Terre-Neuve-et-Labrador
+ 11 = Prince Edward Island/Île-du-Prince-Édouard
+ 13 = New Brunswick/Nouveau-Brunswick
+ 60 = Yukon/Yukon
+ 61 = Northwest Territories/61 = Territoires du Nord-Ouest
+ 62 = Nunavut/Nunavut"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prename*,"The name of the jurisdiction (i.e. province or territory), in English.",Le nom en anglais de la région (c.à-d. la province ou le territoire) qui soumet le rapport,,,"Type: Text
+ 
+ Values:
+ Canada
+ Alberta
+ British Columbia
+ Manitoba
+ New Brunswick
+ Newfoundland and Labrador
+ Northwest Territories
+ Nova Scotia
+ Nunavut
+ Ontario
+ Prince Edward Island
+ Quebec
+ Saskatchewan
+ Yukon"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prfname*,"The name of the jurisdiction (i.e. province or territory), in French.",Le nom en français de la région (c.à-d. la province ou le territoire) qui soumet le rapport,,,"Type: Text
+ 
+ Values:
+ Canada
+ Alberta
+ Île-du-Prince-Édouard
+ Colombie-Britannique
+ Manitoba
+ Nouveau-Brunswick
+ Nouvelle-Écosse
+ Nunavut
+ Ontario
+ Québec
+ Saskatchewan
+ Terre-Neuve-et-Labrador
+ Territoires du Nord-Ouest
+ Yukon"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,numtotal_atleast1dose,The number of people who received at least one dose of a COVID-19 vaccine. People in this category have received 1 or more doses of a COVID-19 vaccine.,Le nombre de personnes qui ont reçu au moins une dose d'un vaccin contre la COVID-19. Les personnes de cette catégorie ont reçu 1 ou plusieurs doses d'un vaccin contre la COVID-19.,A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données peut être trouvée ici : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,numtotal_partially,The number of people who received at least one dose of a COVID-19 vaccine but have not completed their primary series.,"Le nombre de personnes qui ont reçu au moins une dose d'un vaccin contre la COVID-19, mais qui n'ont pas complété leur série primaire.",A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données peut être trouvée ici : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,numtotal_fully,The number of people who have completed their COVID-19 vaccine primary series.,Le nombre de personnes qui ont complété leur série primaire de vaccins contre la COVID-19.,"The “primary series completed” category excludes Quebec from August 14, 2022, and onward, due to changes in Quebec’s vaccination status categories. For this reason, the cumulative percent of people in Canada who have completed their primary series, by report week, should be interpreted with caution.
+
+A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html","La catégorie « série primaire complétée » exclut le Québec à partir du 14 août 2022, en raison des changements dans les catégories de statut vaccinal soumises pour la province. Pour cette raison, le pourcentage cumulatif de personnes ayant complété la série primaire au Canada, par semaine de rapport, devrait être interprété avec prudence.
+
+Une liste complète des mises en garde concernant les données peut être trouvée ici : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,numtotal_onlyfully,The number of people who have completed their COVID-19 vaccine primary series but have not received any COVID-19 vaccine booster doses.,"Le nombre de personnes qui ont complété leur série primaire de vaccins contre la COVID-19, mais qui n'ont reçu aucune dose de rappel.",A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données peut être trouvée ici : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,numtotal_additional,The number of people who have completed their COVID-19 vaccine primary vaccine and received at least 1 COVID-19 booster dose.,Le nombre de personnes qui ont complété leur série primaire de vaccins contre la COVID-19 et qui ont reçu au moins 1 dose de rappel.,A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données peut être trouvée ici : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,numtotal_1additional,The number of people who have completed their COVID-19 vaccine primary series and received only 1 COVID-19 booster dose.,Le nombre de personnes qui ont complété leur série primaire de vaccins COVID-19 et n'ont reçu qu'une seule dose de rappel.,A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données peut être trouvée ici : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,numtotal_2nd_additional,The number of people who have completed their COVID-19 primary vaccine series and received 2 or more COVID-19 booster doses.,Le nombre de personnes qui ont complété leur série de vaccins primaires contre la COVID-19 et qui ont reçu 2 doses de rappel ou plus.,A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données peut être trouvée ici : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,numtotal_recommended_vax,"*As of December 1, 2023*
+The title of this column has changed. This column contains data for the number of people that have been vaccinated per recommendations. This includes people who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+
+*Before December 1, 2023*
+This column was titled: numtotal_recent_fullyoradditional
+
+Previous definition: People who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.","*Au 1 décembre 2023.*
+
+Le titre de cette chronique a changé. Cette colonne contient des données sur le nombre de personnes vaccinées selon les recommandations. Cela inclut les personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination du vaccin contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19.
+
+*Avant le 1 décembre 2023*
+Cette colonne était intitulée : numtotal_recent_fullyoradditional
+
+Définition précédente : Personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination du vaccin contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19.
+
+",A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données peut être trouvée ici : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,proptotal_atleast1dose,The proportion of the total population who received at least one dose of a COVID-19 vaccine.,La proportion de la population totale qui a reçu au moins une dose d'un vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,proptotal_partially,The proportion of the total population who received at least one dose of a COVID-19 vaccine but have not completed their primary series.,La proportion de la population totale qui a reçu au moins une dose d'un vaccin contre la COVID-19 mais qui n'a pas complété la série primaire.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,proptotal_fully,The proportion of the total population who have completed their COVID-19 vaccine primary series.,La proportion de la population totale qui a complété la série primaire de vaccins contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,proptotal_onlyfully,The proportion of the total population who have completed their COVID-19 vaccine primary series but have not received any COVID-19 vaccine booster doses.,La proportion de la population totale qui a complété la série primaire de vaccin contre la COVID-19 mais qui n'a reçu aucune dose de rappel du vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,proptotal_additional,The proportion of the total population who have completed their COVID-19 vaccine primary series and received at least 1 COVID-19 booster dose.,La proportion de la population totale qui a complété la série primaire de vaccin contre la COVID-19 et a reçu au moins 1 dose de rappel COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,proptotal_1additional,The proportion of the total population who have completed their COVID-19 vaccine primary series and received only 1 COVID-19 booster dose.,La proportion de la population totale qui a complété la série primaire de vaccin contre la COVID-19 et n'a reçu qu'une seule dose de rappel.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,proptotal_2nd_additional,The proportion of the total population who have completed their COVID-19 vaccine primary series and received 2 or more COVID-19 booster doses.,La proportion de la population totale qui a complété la série primaire de vaccin COVID-19 et a reçu 2 doses de rappel COVID-19 ou plus.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,"proptotal_recommended_vax
+","*As of December 1, 2023*
+The title of this column has changed. This column contains data for the number of people that have been vaccinated per recommendations. This includes the proportion of people who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+
+*Before December 1, 2023*
+This column was titled: proptotal_recent_fullyoradditional
+
+Previous definition: The proportion of the total population who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.","*Au 1 décembre 2023*
+Le titre de cette chronique a changé. Cette colonne contient des données sur le nombre de personnes vaccinées selon les recommandations. Cela inclut la proportion de personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19.
+
+*Avant le 1 décembre 2023*
+Cette colonne était intitulée : proptotal_recent_fullyoradditional
+
+Définition précédente : Proportion de la population totale qui, au cours des 6 derniers mois, a terminé sa primo-série de vaccin contre la COVID-19 ou a reçu une dose de rappel contre la COVID-19.",,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num18plus_atleast1dose,The number of people 18 years and older who received at least one dose of a COVID-19 vaccine. People in this category have received 1 or more doses of a COVID-19 vaccine.,Le nombre de personnes de 18 ans et plus qui ont reçu au moins une dose d'un vaccin contre la COVID-19. Les personnes de cette catégorie peuvent avoir reçu 1 ou plusieurs doses d'un vaccin contre la COVID-19.,t,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num18plus_partially,The number of people 18 years and older who received at least one dose of a COVID-19 vaccine but have not completed their primary series.,Le nombre de personnes de 18 ans et plus qui ont reçu au moins une dose d'un vaccin contre la COVID-19 mais qui n'ont pas complété leur série primaire.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num18plus_fully,The number of people 18 years and older who have completed their COVID-19 vaccine primary series.,Le nombre de personnes de 18 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num18plus_onlyfully,The number of people 18 years and older who have completed their COVID-19 vaccine primary series but have not received any COVID-19 vaccine booster doses.,Le nombre de personnes de 18 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 mais qui n'ont reçu aucune dose de rappel du vaccin contre la COVID-19.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num18plus_additional,The number of people 18 years and older who have completed their COVID-19 vaccine primary series and received at least 1 COVID-19 booster dose.,Le nombre de personnes de 18 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 et qui ont reçu au moins 1 dose de rappel.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num18plus_1additional,The number of people 18 years and older who have completed their COVID-19 vaccine primary series and received only 1 COVID-19 booster dose.,Le nombre de personnes de 18 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 et qui n'ont reçu qu'une seule dose de rappel.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num18plus_2nd_additional,The number of people 18 years and older who have completed their COVID-19 vaccine primary series and received 2 or more COVID-19 booster doses.,Le nombre de personnes de 18 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 et qui ont reçu 2 doses de rappel ou plus.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num18plus_recommended_vax,"*As of December 1, 2023*
+The title of this column has changed. This column contains data for the number of people 18 years and older that have been vaccinated per recommendations. This includes people who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+
+*Before December 1, 2023*
+This column was titled: num18plus_recent_fullyoradditional
+
+Previous definition: People 18 years and older who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+","*Au 1 décembre 2023*
+
+Le titre de cette chronique a changé. Cette colonne contient des données sur le nombre de personnes 18 ans et plus vaccinées selon les recommandations. Cela inclut les personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination du vaccin contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19. 
+
+*Avant le 1 décembre 2023* 
+Cette colonne était intitulée : num18plus_recent_fullyoradditional 
+
+Définition précédente : Personnes 18 ans et plus qui, au cours des 6 derniers mois, ont terminé leur primovaccination du vaccin contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19.
+",,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop18plus_atleast1dose,The proportion of the population 18 years and older who received at least one dose of a COVID-19 vaccine.,La proportion de la population de 18 ans et plus qui a reçu au moins une dose d'un vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop18plus_partially,The proportion of the population 18 years and older who received at least one dose of a COVID-19 vaccine but have not completed their primary series.,La proportion de la population de 18 ans et plus qui a reçu au moins une dose d'un vaccin contre la COVID-19 mais qui n'a pas complété la série primaire.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop18plus_fully,The proportion of the population 18 years and older who have completed their COVID-19 vaccine primary series.,La proportion de la population de 18 ans et plus qui a complété la série primaire de vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop18plus_onlyfully,The proportion of the population 18 years and older who have completed their COVID-19 vaccine primary series but have not received any COVID-19 vaccine booster doses.,La proportion de la population de 18 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 mais qui n'a reçu aucune dose de rappel du vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop18plus_additional,The proportion of the population 18 years and older who have completed their COVID-19 vaccine primary series and received at least 1 COVID-19 booster dose.,La proportion de la population de 18 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 et a reçu au moins 1 dose de rappel contre la COVID-19,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop18plus_1additional,The proportion of the population 18 years and older who have completed their COVID-19 vaccine primary series and received only 1 COVID-19 booster dose.,La proportion de la population de 18 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 et n'a reçu qu'une seule dose de rappel.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop18plus_2nd_additional,The proportion of the population 18 years and older who have completed their COVID-19 vaccine primary series and received 2 or more COVID-19 booster doses.,La proportion de la population de 18 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 et a reçu 2 doses de rappel ou plus.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop18plus_recommended_vax,"*As of December 1, 2023*
+The title of this column has changed. This column contains data for the number of people 18 years and older that have been vaccinated per recommendations. This includes the proportion of people who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+
+*Before December 1, 2023*
+This column was titled: prop18plus_recent_fullyoradditional
+
+Previous definition: The proportion of people 18 years and older who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+","*Au 1 décembre 2023* 
+Le titre de cette chronique a changé. Cette colonne contient des données sur le nombre de personnes de 18 ans et plus vaccinées selon les recommandations. Cela inclut la proportion de personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19. 
+
+
+*Avant le 1 décembre 2023*
+Cette colonne était intitulée : prop18plus_recent_fullyoradditional 
+
+Définition précédente : La proportion de la population de 18 ans et plus qui, au cours des 6 derniers mois, a soit complété la série primaire de vaccin contre la COVID-19, soit reçu une dose de rappel.",,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num5plus_atleast1dose,The number of people 5 years and older who received at least one dose of a COVID-19 vaccine. People in this category have received 1 or more doses of a COVID-19 vaccine.,Le nombre de personnes de 5 ans et plus qui ont reçu au moins une dose d'un vaccin contre la COVID-19. Les personnes de cette catégorie peuvent avoir reçu 1 ou plusieurs doses d'un vaccin contre la COVID-19.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num5plus_partially,The number of people 5 years and older who received at least one dose of a COVID-19 vaccine but have not completed their primary series.,Le nombre de personnes de 5 ans et plus qui ont reçu au moins une dose d'un vaccin contre la COVID-19 mais qui n'ont pas complété leur série primaire.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num5plus_fully,The number of people 5 years and older who have completed their COVID-19 vaccine primary series.,Le nombre de personnes de 5 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num5plus_onlyfully,The number of people 5 years and older who have completed their COVID-19 vaccine primary series but have not received any COVID-19 vaccine booster doses.,Le nombre de personnes de 5 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 mais qui n'ont reçu aucune dose de rappel du vaccin contre la COVID-19.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num5plus_additional,The number of people 5 years and older who have completed their COVID-19 vaccine primary series and received at least 1 COVID-19 booster dose.,Le nombre de personnes de 5 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 et qui ont reçu au moins 1 dose de rappel.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num5plus_1additional,The number of people 5 years and older who have completed their COVID-19 vaccine primary series and received only 1 COVID-19 booster dose.,Le nombre de personnes de 5 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 et qui n'ont reçu qu'une seule dose de rappel.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num5plus_2nd_additional,The number of people 5 years and older who have completed their COVID-19 vaccine primary series and received 2 or more COVID-19 booster doses.,Le nombre de personnes de 5 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 et qui ont reçu 2 doses de rappel ou plus.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num5plus_recommended_vax,"*As of December 1, 2023*
+The title of this column has changed. This column contains data for the number of people 5 years and older that have been vaccinated per recommendations. This includes people who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+
+*Before December 1, 2023*
+This column was titled: num5plus_recent_fullyoradditional
+
+Previous definition: The number of people 5 years and older who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+","*Au 1 décembre 2023*
+
+Le titre de cette chronique a changé. Cette colonne contient des données sur le nombre de personnes de 5 ans et plus vaccinées selon les recommandations. Cela inclut les personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination du vaccin contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19. 
+
+*Avant le 1 décembre 2023* 
+Cette colonne était intitulée : num5plus_recent_fullyoradditional
+
+Définition précédente : Le nombre de personnes de 5 ans et plus qui, au cours des 6 derniers mois, ont soit complété leur série primaire de vaccin contre la COVID-19, soit reçu une dose de rappel.
+",,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop5plus_atleast1dose,The proportion of the population 5 years and older who received at least one dose of a COVID-19 vaccine.,La proportion de la population de 5 ans et plus qui a reçu au moins une dose d'un vaccin contre la COVID-19,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop5plus_partially,The proportion of the population 5 years and older who received at least one dose of a COVID-19 vaccine but have not completed their primary series.,La proportion de la population de 5 ans et plus qui a reçu au moins une dose d'un vaccin contre la COVID-19 mais qui n'a pas complété la série primaire.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop5plus_fully,The proportion of the population 5 years and older who have completed their COVID-19 vaccine primary series.,La proportion de la population de 5 ans et plus qui a complété la série primaire de vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop5plus_onlyfully,The proportion of the population 5 years and older who have completed their COVID-19 vaccine primary series but have not received any COVID-19 vaccine booster doses.,La proportion de la population de 5 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 mais qui n'a reçu aucune dose de rappel du vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop5plus_additional,The proportion of the population 5 years and older who have completed their COVID-19 vaccine primary series and received at least 1 COVID-19 booster dose.,La proportion de la population de 5 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 et a reçu au moins 1 dose de rappel.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop5plus_1additional,The proportion of the population 5 years and older who have completed their COVID-19 vaccine primary series and received only 1 COVID-19 booster dose.,La proportion de la population de 5 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 et n'a reçu qu'une seule dose de rappel.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop5plus_2nd_additional,The proportion of the population 5 years and older who have completed their COVID-19 vaccine primary series and received 2 or more COVID-19 booster doses.,La proportion de la population de 5 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 et a reçu 2 doses de rappel ou plus.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop5plus_recommended_vax,"*As of December 1, 2023*
+The title of this column has changed. This column contains data for the proportion of people people 5 years and older that have been vaccinated per recommendations. This includes the proportion of people who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+
+*Before December 1, 2023*
+This column was titled: prop5plus_recent_fullyoradditional
+
+Previous definition: The proportion of the population 5 years and older who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+","*Au 1 décembre 2023* 
+Le titre de cette chronique a changé. Cette colonne contient des données sur la proportion de personnes de 5 ans et plus vaccinées selon les recommandations. Cela inclut la proportion de personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19. 
+
+*Avant le 1 décembre 2023* 
+Cette colonne était intitulée : prop5plus_recent_fullyoradditional 
+
+Définition précédente : La proportion de la population de 5 ans et plus qui, au cours des 6 derniers mois, a soit complété la série primaire de vaccin contre la COVID-19, soit reçu une dose de rappel.
+",,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num12plus_atleast1dose,The number of people 12 years and older who received at least one dose of a COVID-19 vaccine. People in this category have received 1 or more doses of a COVID-19 vaccine.,Le nombre de personnes de 12 ans et plus qui ont reçu au moins une dose d'un vaccin contre la COVID-19. Les personnes de cette catégorie peuvent avoir reçu 1 ou plusieurs doses d'un vaccin contre la COVID-19.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num12plus_partially,The number of people 12 years and older who received at least one dose of a COVID-19 vaccine but have not completed their primary series.,Le nombre de personnes de 12 ans et plus qui ont reçu au moins une dose d'un vaccin contre la COVID-19 mais qui n'ont pas complété leur série primaire.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num12plus_fully,The number of people 12 years and older who have completed their COVID-19 vaccine primary series.,Le nombre de personnes de 12 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num12plus_onlyfully,The number of people 12 years and older who have completed their COVID-19 vaccine primary series but have not received any COVID-19 vaccine booster doses.,Le nombre de personnes de 12 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 mais qui n'ont reçu aucune dose de rappel du vaccin contre la COVID-19.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num12plus_additional,The number of people 12 years and older who have completed their COVID-19 vaccine primary series and received at least 1 COVID-19 booster dose.,Le nombre de personnes de 12 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 et qui ont reçu au moins 1 dose de rappel.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num12plus_1additional,The number of people 12 years and older who have completed their COVID-19 vaccine primary series and received only 1 COVID-19 booster dose.,Le nombre de personnes de 12 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 et qui n'ont reçu qu'une seule dose de rappel.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num12plus_2nd_additional,The number of people 12 years and older who have completed their COVID-19 vaccine primary series and received 2 or more COVID-19 booster doses.,Le nombre de personnes de 12 ans et plus qui ont complété leur série primaire de vaccin contre la COVID-19 et qui ont reçu 2 doses de rappel ou plus.,,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,num12plus_recommended_vax,"*As of December 1, 2023*
+The title of this column has changed. This column contains data for the number of people 12 years and older that have been vaccinated per recommendations. This includes people who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+
+*Before December 1, 2023*
+This column was titled: num12plus_recent_fullyoradditional
+
+Previous definition: The number of people 12 years and older who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+","*Au 1 décembre 2023*
+
+Le titre de cette chronique a changé. Cette colonne contient des données sur le nombre de personnes de 12 ans et plus vaccinées selon les recommandations. Cela inclut les personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination du vaccin contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19. 
+
+*Avant le 1 décembre 2023* 
+Cette colonne était intitulée : num12plus_recent_fullyoradditional
+
+Définition précédente : Le nombre de personnes de 12 ans et plus qui, au cours des 6 derniers mois, ont soit complété leur série primaire de vaccin contre la COVID-19, soit reçu une dose de rappel.
+",,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop12plus_atleast1dose,The proportion of the population 12 years and older who received at least one dose of a COVID-19 vaccine.,La proportion de la population de 12 ans et plus qui a reçu au moins une dose d'un vaccin contre la COVID-19,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop12plus_partially,The proportion of the population 12 years and older who received at least one dose of a COVID-19 vaccine but have not completed their primary series.,La proportion de la population de 12 ans et plus qui a reçu au moins une dose d'un vaccin contre la COVID-19 mais qui n'a pas complété la série primaire.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop12plus_fully,The proportion of the population 12 years and older who have completed their COVID-19 vaccine primary series.,La proportion de la population de 12 ans et plus qui a complété la série primaire de vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop12plus_onlyfully,The proportion of the population 12 years and older who have completed their COVID-19 vaccine primary series but have not received any COVID-19 vaccine booster doses.,La proportion de la population de 12 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 mais qui n'a reçu aucune dose de rappel du vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop12plus_additional,The proportion of the population 12 years and older who have completed their COVID-19 vaccine primary series and received at least 1 COVID-19 booster dose.,La proportion de la population de 12 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 et a reçu au moins 1 dose de rappel.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop12plus_1additional,The proportion of the population 12 years and older who have completed their COVID-19 vaccine primary series and received only 1 COVID-19 booster dose.,La proportion de la population de 12 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 et n'a reçu qu'une seule dose de rappel.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop12plus_2nd_additional,The proportion of the population 12 years and older who have completed their COVID-19 vaccine primary series and received 2 or more COVID-19 booster doses.,La proportion de la population de 12 ans et plus qui a complété la série primaire de vaccin contre la COVID-19 et a reçu 2 doses de rappel ou plus.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-map.csv,prop12plus_recommended_vax,"*As of December 1, 2023*
+The title of this column has changed. This column contains data for the proportion of people people 12 years and older that have been vaccinated per recommendations. This includes the proportion of people who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+
+*Before December 1, 2023*
+This column was titled: prop12plus_recent_fullyoradditional
+
+Previous definition: The proportion of the population 5 years and older who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+","*Au 1 décembre 2023* 
+Le titre de cette chronique a changé. Cette colonne contient des données sur la proportion de personnes de 12 ans et plus vaccinées selon les recommandations. Cela inclut la proportion de personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19. 
+
+*Avant le 1 décembre 2023* 
+Cette colonne était intitulée : prop12plus_recent_fullyoradditional 
+
+Définition précédente : La proportion de la population de 12 ans et plus qui, au cours des 6 derniers mois, a soit complété la série primaire de vaccin contre la COVID-19, soit reçu une dose de rappel.
+",,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,pruid*,"The last day included in the cumulative data update, i.e., data as of the date indicated in this variable includes the cumulative number of doses administered since December 14, 2020.
+ 
+ These data were updated: 
+- Every week until April 10, 2022 
+- Every 2 weeks until May 22, 2022 
+- Every 4 weeks until April 23, 2023 
+- Every 8 weeks until June 18, 2023 
+- Every 12 weeks since June 18, 2023","La dernière date incluse dans la mise à jour des données cumulatives. Autrement dit, les données à la date indiquée par cette variable incluent le nombre cumulatif de doses administrées depuis le 14 décembre 2020.
+ 
+Ces données ont été mises à jour : 
+- Chaque semaine jusqu'au 10 avril 2022 
+- Toutes les 2 semaines jusqu'au 22 mai 2022 
+- Toutes les 4 semaines jusqu'au 23 avril 2023 
+- Toutes les 8 semaines jusqu'au 18 juin 2023 
+- Toutes les 12 semaines depuis le 18 juin 2023","The COVID-19 vaccination campaign began in Canada on December 14, 2020. Please see the data availability section linked in this cell for specific dates.",La campagne de vaccination contre la COVID-19 a commencé au Canada le 14 décembre 2020. Veuillez consulter la section sur la disponibilité des données liée dans cette cellule pour connaître les dates précises.,"Type: Date
+ 
+ Format: Date format
+ YYYY-MM-DD
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,prename*,"The standard geographical classification (SGC) code of the jurisdiction (i.e., province or territory) submitting the report.",La classification géographique type (CGT) de la région (c.à-d. province or territoire) qui soumet le rapport.,,,"Type: Number
+ 
+ Values: 
+ 1 = Canada/Canada
+ 24 = Quebec/Québec
+ 35 = Ontario/Ontario
+ 59 = British Columbia/Colombie-Britannique
+ 48 = Alberta/Alberta
+ 47 = Saskatchewan/Saskatchewan
+ 12 = Nova Scotia/Nouvelle-Écosse
+ 46 = Manitoba/Manitoba
+ 10 = Newfoundland and Labrador/Terre-Neuve-et-Labrador
+ 11 = Prince Edward Island/Île-du-Prince-Édouard
+ 13 = New Brunswick/Nouveau-Brunswick
+ 60 = Yukon/Yukon
+ 61 = Northwest Territories/61 = Territoires du Nord-Ouest
+ 62 = Nunavut/Nunavut"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,prfname*,"The name of the jurisdiction (i.e. province or territory), in English.",Le nom en anglais de la région (c.à-d. la province ou le territoire) qui soumet le rapport,,,"Type: Text
+ 
+ Values:
+ Canada
+ Alberta
+ British Columbia
+ Manitoba
+ New Brunswick
+ Newfoundland and Labrador
+ Northwest Territories
+ Nova Scotia
+ Nunavut
+ Ontario
+ Prince Edward Island
+ Quebec
+ Saskatchewan
+ Yukon"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,week_end*,"The name of the jurisdiction (i.e. province or territory), in French.",Le nom en français de la région (c.à-d. la province ou le territoire) qui soumet le rapport,,,"Type: Text
+ 
+ Values:
+ Canada
+ Alberta
+ Île-du-Prince-Édouard
+ Colombie-Britannique
+ Manitoba
+ Nouveau-Brunswick
+ Nouvelle-Écosse
+ Nunavut
+ Ontario
+ Québec
+ Saskatchewan
+ Terre-Neuve-et-Labrador
+ Territoires du Nord-Ouest
+ Yukon"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,sex,The sex of the vaccine recipient.,Le sexe de la personne vaccinée.,,,Type: Text
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,age,The age group (in years) of the vaccine recipient.,Le groupe d'âge (en années) de la personne vaccinée.,"Vaccine recipient's age is based on their age at the time fo reporting, which is calculated by subtracting their birthdate from the date the data is submitted to the Public Health Agency of Canada. As a result, the vaccine recipient’s age groups are not static over time. However, Alberta calculates vaccine reipients's age based on the time of last dose received and Nunavut calculated age based on the time the first dose was adminsitered in Nunavut.
+ 
+ ""Unknown"" is indicated when age is unknown by the reporting jurisdiction, for example when the vaccination date is unknown. ""Not reported"" is indicated when the value was not reported by the jurisdiction at the time of data submission.
+ 
+ Note that from December 19, 2020 to January 2, 2021, the available age group values were 0-15, 16-69, 70-74, 75-79, 80+, All ages, Unknown, and Not reported. 
+ From January 9 to April 10, 2021, the available age group values were 0-17, 18-69, 70-74, 75-79, 80+, All ages, Unknown, and Not reported.
+ From April 17, 2021 to May 29, 2021, the available age group values were 0-17, 18-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80+, All ages, Unknown, and Not reported.
+ From June 5, 2021 onwards, the available age group values were 0-4, 5-11, 12-17, 18-29, 30-39, 40-49, 50-59, 60-69, 70-79, 80+, All ages, Unknown, and Not reported.","L'âge des personnes vaccinée est basé sur l'âge au moment du rapport. Il est calculé en soustrayant la date de naissance et la date à laquelle le rapport est soumis à l'Agende de la santé publique du Canada. Par conséquent, les groupes d'âge ne sont pas statiques dans le temps.
+ Cependant, l'Alberta calcule l'âge en fonction de la date de la dernière dose reçue, et le Nunavut le calcule en fonction de la date à laquelle la première dose a été adminsitrée dans le territoire.
+ 
+ ""Unknown"" (inconnu) est indiqué lorsque l'âge est inconnu de la province ou du territoire, par exemple lrosque la date de vaccination est inconnue. ""Not reported"" (non rapporté) est indiqué lorsque la province ou le territoire n'a pas rapporté l'information au moment de la soumission des données.
+ 
+ À noter que du 19 décembre 2020 au 2 janvier 2021, les catégories disponibles étaient les groupes de 0 à 15, 16 à 69, 70 à 74, 75 à 79, 80 et plus, ""All ages"" (tous les âges), ""Unknown"" (inconnu), et ""Not reported"" (non rapporté). 
+ Du 9 janvier au 10 avril 2021, les catégories disponibles étaient les groupes de 0 à 17, 18 à 69, 70 à 74, 75 à 79, 80 et plus, ""All ages"" (tous les âges), ""Unknown"" (inconnu), et ""Not reported"" (non rapporté). 
+ Du 17 avril 2021 au 29 mai 2021, les catégories disponibles étaient les groupes de 0 à 17, 18 à 29, 30 à 39, 40 à 49, 50 à 59, 60 à 69, 70 à 79, 80 et plus, ""All ages"" (tous les âges), ""Unknown"" (inconnu), et ""Not reported"" (non rapporté). 
+ À partir du 5 juin, les catégories disponibles étaient les groupes de 0 à 4, 5 à 11, 12 à 17, 18 à 29, 30 à 39, 40 à 49, 50 à 59, 60 à 69, 70 à 79, 80 et plus, ""All ages"" (tous les âges), ""Unknown"" (inconnu), et ""Not reported"" (non rapporté).","Type: Text
+ 
+ Values:
+ 0-15
+ 0-17
+ 0-4
+ 05-11
+ 12-17
+ 16-69
+ 18-29
+ 18-69
+ 30-39
+ 40-49
+ 50-59
+ 60-69
+ 70-74
+ 70-79
+ 75-79
+ 80+
+ All ages
+ Unknown
+ Not reported"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,numtotal_atleast1dose*,The number of people who received at least one dose of a COVID-19 vaccine. People in this category have received 1 or more doses of a COVID-19 vaccine.,Le nombre de personnes qui ont reçu au moins une dose d'un vaccin contre la COVID-19. Les personnes de cette catégorie ont reçu 1 ou plusieurs doses d'un vaccin contre la COVID-19.,A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données est disponible dans le liin suivant : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,numtotal_partially*,The number of people who received at least one dose of a COVID-19 vaccine but have not completed their primary series.,"Le nombre de personnes qui ont reçu au moins une dose d'un vaccin contre la COVID-19, mais qui n'ont pas complété leur série primaire.",A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données est disponible dans le liin suivant : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,numtotal_fully*,The number of people who have completed their COVID-19 vaccine primary series.,Le nombre de personnes qui ont complété leur série primaire de vaccin contre la COVID-19.,"The ""primary series completed"" category for age groups from ""18 to 29"" to ""80 and older"" excludes Quebec
+
+A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html","La catégorie « série primaire complétée», pour les groupes d’âge de « 18 à 29 ans » à « 80 ans et plus », exclut le Québec
+
+Une liste complète des mises en garde concernant les données est disponible dans le liin suivant : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html","Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,numtotal_additional*,The number of people who have completed their COVID-19 vaccine primary vaccine and received at least 1 COVID-19 booster dose.,Le nombre de personnes qui ont complété leur série primaire contre la COVID-19 et qui ont reçu au moins 1 dose de rappel.,A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données est disponible dans le liin suivant : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,numtotal_2nd_additional*,The number of people who have completed their COVID-19 primary vaccine series and received 2 or more COVID-19 booster doses.,Le nombre de personnes qui ont complété leur série de vaccin primaires contre la COVID-19 et qui ont reçu 2 doses de rappel ou plus.,A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données est disponible dans le liin suivant : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,numtotal_recommended_vax*,"*As of December 1, 2023*
+The title of this column has changed. This column contains data for the number of people that have been vaccinated per recommendations. This includes people who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+
+*Before December 1, 2023*
+This column was titled: numtotal_recent_fullyoradditional
+
+Previous definition: People who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+","*Au 1 décembre 2023.*
+
+Le titre de cette chronique a changé. Cette colonne contient des données sur le nombre de personnes vaccinées selon les recommandations. Cela inclut les personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination du vaccin contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19.
+
+*Avant le 1 décembre 2023*
+Cette colonne était intitulée : numtotal_recent_fullyoradditional
+
+Définition précédente : Personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination du vaccin contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19.
+",A full list of data caveats can be found here: https://health-infobase.canada.ca/covid-19/vaccination-coverage/technical-notes.html,Une liste complète des mises en garde concernant les données est disponible dans le liin suivant : https://sante-infobase.canada.ca/covid-19/couverture-vaccinale/notes-techniques.html,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,proptotal_atleast1dose*,The proportion of the total population who received at least one dose of a COVID-19 vaccine.,La proportion de la population totale qui a reçu au moins une dose d'un vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,proptotal_partially*,The proportion of the total population who received at least one dose of a COVID-19 vaccine but have not completed their primary series.,La proportion de la population totale qui a reçu au moins une dose d'un vaccin contre la COVID-19 mais qui n'a pas complété la série primaire.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,proptotal_fully*,The proportion of the total population who have completed their COVID-19 vaccine primary series.,La proportion de la population totale qui a complété la série primaire de vaccin contre la COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,proptotal_additional*,The proportion of the total population who have completed their COVID-19 vaccine primary series and received at least 1 COVID-19 booster dose.,La proportion de la population totale qui a complété la série primaire de vaccin COVID-19 et a reçu au moins 1 dose de rappel COVID-19.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,proptotal_2nd_additional*,The proportion of the total population who have completed their COVID-19 vaccine primary series and received 2 or more COVID-19 booster doses.,La proportion de la population totale qui a complété la série primaire de vaccin COVID-19 et a reçu 2 doses de rappel COVID-19 ou plus.,,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-byAgeAndSex-overTimeDownload.csv,proptotal_recommended_vax*,"*As of December 1, 2023*
+The title of this column has changed. This column contains data for the number of people that have been vaccinated per recommendations. This includes the proportion of people who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+
+*Before December 1, 2023*
+This column was titled: proptotal_recent_fullyoradditional
+
+Previous definition: The proportion of the total population who, in the last 6 months, completed their COVID-19 vaccine primary series or received a COVID-19 booster dose.
+","*Au 1 décembre 2023*
+Le titre de cette chronique a changé. Cette colonne contient des données sur le nombre de personnes vaccinées selon les recommandations. Cela inclut la proportion de personnes qui, au cours des 6 derniers mois, ont terminé leur primovaccination contre la COVID-19 ou ont reçu une dose de rappel contre la COVID-19.
+
+*Avant le 1 décembre 2023*
+Cette colonne était intitulée : proptotal_recent_fullyoradditional
+
+Définition précédente : Proportion de la population totale qui, au cours des 6 derniers mois, a terminé sa primo-série de vaccin contre la COVID-19 ou a reçu une dose de rappel contre la COVID-19.
+",,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-lastVaccineProduct.csv,pruid*,"The standard geographical classification (SGC) code of the jurisdiction (i.e., province or territory) submitting the report.",La classification géographique type (CGT) de la région (c.à-d. province or territoire) qui soumet le rapport.,,,"Type: Number
+ 
+ Values: 
+ 1 = Canada/Canada
+ 24 = Quebec/Québec
+ 35 = Ontario/Ontario
+ 59 = British Columbia/Colombie-Britannique
+ 48 = Alberta/Alberta
+ 47 = Saskatchewan/Saskatchewan
+ 12 = Nova Scotia/Nouvelle-Écosse
+ 46 = Manitoba/Manitoba
+ 10 = Newfoundland and Labrador/Terre-Neuve-et-Labrador
+ 11 = Prince Edward Island/Île-du-Prince-Édouard
+ 13 = New Brunswick/Nouveau-Brunswick
+ 60 = Yukon/Yukon
+ 61 = Northwest Territories/61 = Territoires du Nord-Ouest
+ 62 = Nunavut/Nunavut"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-lastVaccineProduct.csv,prename*,"The name of the jurisdiction (i.e. province or territory), in English.",Le nom en anglais de la région (c.à-d. la province ou le territoire) qui soumet le rapport,,,"Type: Text
+ 
+ Values:
+ Canada
+ Alberta
+ British Columbia
+ Manitoba
+ New Brunswick
+ Newfoundland and Labrador
+ Northwest Territories
+ Nova Scotia
+ Nunavut
+ Ontario
+ Prince Edward Island
+ Quebec
+ Saskatchewan
+ Yukon"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-lastVaccineProduct.csv,prfname*,"The name of the jurisdiction (i.e. province or territory), in French.",Le nom en français de la région (c.à-d. la province ou le territoire) qui soumet le rapport,,,"Type: Text
+ 
+ Values:
+ Canada
+ Alberta
+ Île-du-Prince-Édouard
+ Colombie-Britannique
+ Manitoba
+ Nouveau-Brunswick
+ Nouvelle-Écosse
+ Nunavut
+ Ontario
+ Québec
+ Saskatchewan
+ Terre-Neuve-et-Labrador
+ Territoires du Nord-Ouest
+ Yukon"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-lastVaccineProduct.csv,week_end*,"The last day included in the cumulative data update, i.e., data as of the date indicated in this variable includes the cumulative number of doses administered since December 14, 2020.
+ 
+These data were updated: 
+- Every week until April 10, 2022 
+- Every 2 weeks until May 22, 2022 
+- Every 4 weeks until April 23, 2023 
+- Every 8 weeks until June 18, 2023 
+- Every 12 weeks since June 18, 2023","La dernière date incluse dans la mise à jour des données cumulatives. Autrement dit, les données à la date indiquée par cette variable incluent le nombre cumulatif de doses administrées depuis le 14 décembre 2020.
+ 
+ Ces données ont été mises à jour : 
+- Chaque semaine jusqu'au 10 avril 2022 
+- Toutes les 2 semaines jusqu'au 22 mai 2022 
+- Toutes les 4 semaines jusqu'au 23 avril 2023 
+- Toutes les 8 semaines jusqu'au 18 juin 2023 
+- Toutes les 12 semaines depuis le 18 juin 2023","The COVID-19 vaccination campaign began in Canada on December 14, 2020. Please see the data availability section linked in this cell for specific dates.",La campagne de vaccination contre la COVID-19 a commencé au Canada le 14 décembre 2020. Veuillez consulter la section sur la disponibilité des données liée dans cette cellule pour connaître les dates précises.,"Type: Date
+ 
+ Format: Date format
+ YYYY-MM-DD
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-lastVaccineProduct.csv,pop_group,The population that is eligible to receive a COVID-19 vaccine booster dose. Only those 5 years and older are eligible to receive a booster dose in Canada.,La population qui est éligible pour recevoir une dose de rappel du vaccin contre la COVID-19. Seuls les 5 ans et plus sont éligibles pour recevoir une dose de rappel au Canada.,,,"Type: Text
+ 
+ Values:
+ 5+"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-lastVaccineProduct.csv,last_vaccine,"*As of December 1, 2023*
+This column contains data for the most recent product received.
+
+*Before December 1, 2023*
+The last COVID-19 vaccine booster dose product received.","*Au 1 décembre 2023*
+Cette colonne contient les données du produit reçu le plus récemment.
+
+*Avant le 1 décembre 2023*
+Le dernier produit de dose de rappel du vaccin contre la COVID-19 reçu.",,,Type: Number
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-lastVaccineProduct.csv,numtotal_latestbooster,"*As of December 1, 2023*
+The number of people that received at least 1 dose of a COVID-19 vaccine by last product received.
+
+*Before December 1, 2023*
+The number of people that received at least 1 booster dose of a COVID-19 vaccine by last vaccine product received.","*Au 1 décembre 2023*
+Le nombre de personnes ayant reçu au moins 1 dose d'un vaccin contre la COVID-19 par dernier produit vaccinal reçu.
+
+*Avant le 1 décembre 2023*
+Le nombre de personnes ayant reçu au moins 1 dose de rappel d'un vaccin contre la COVID-19 par dernier produit vaccinal reçu.",,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+https://health-infobase.canada.ca/src/data/covidLive/vaccination-coverage-lastVaccineProduct.csv,proptotal_latestbooster_among_fully,"*As of December 1, 2023*
+The number of people that received at least 1 dose of a COVID-19 vaccine, by last vaccine product received, expressed as a proportion of the total population.
+
+*Before December 1, 2023*
+The number of people that received at least 1 booster dose of a COVID-19 vaccine, by last vaccine product received, expressed as a proportion of the population 5 years and older that have completed their COVID-19 vaccine primary series.","*Au 1 décembre 2023*
+Nombre de personnes ayant reçu au moins 1 dose d’un vaccin contre la COVID-19, selon le dernier produit vaccinal reçu, exprimé en proportion de la population totale.
+
+*Avant le 1 décembre 2023*
+Le nombre de personnes qui ont reçu au moins 1 dose de rappel d'un vaccin contre la COVID-19, par dernier produit vaccinal reçu, exprimé en proportion de la population de 5 ans et plus qui a complété la série primaire de vaccin COVID-19.",,,"Type: Number
+ 
+ Values: Integers ≥ 0"
+,,,,,,
+*This variable is found in more than one dataset/Cette variable est utilisée dans plus d'un jeu de données,,,,,,
+Last modified on / Dernière modification :,2023-11-30,,,,,

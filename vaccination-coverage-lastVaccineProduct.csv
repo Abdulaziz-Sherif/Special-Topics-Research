@@ -1,0 +1,673 @@
+pruid,prename,prfname,week_end,pop_group,last_vaccine,numtotal_latestbooster,proptotal_latestbooster_among_fully,numtotal_atleast1dose,proptotal_latest_among_atleast1dose
+1,Canada,Canada,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,3874190,12.7,,
+1,Canada,Canada,2023-01-29,5+,Pfizer-BioNTech Comirnaty,7413894,24.1,,
+1,Canada,Canada,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,3668539,11.2,,
+1,Canada,Canada,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,33638,0,,
+1,Canada,Canada,2023-01-29,5+,Moderna Spikevax,4767743,13.8,,
+1,Canada,Canada,2023-01-29,5+,All other vaccines,19799,0.1,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,28626,5.9,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-01-29,5+,Pfizer-BioNTech Comirnaty,86618,18,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,56902,11.8,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-01-29,5+,Moderna Spikevax,137660,28.5,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-01-29,5+,All other vaccines,118,0,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,13743,9.5,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-01-29,5+,Pfizer-BioNTech Comirnaty,38763,26.7,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,14330,9.9,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-01-29,5+,Moderna Spikevax,21110,14.5,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-01-29,5+,All other vaccines,30,0,,
+12,Nova Scotia,Nouvelle-Écosse,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,106081,12.2,,
+12,Nova Scotia,Nouvelle-Écosse,2023-01-29,5+,Pfizer-BioNTech Comirnaty,211888,24.4,,
+12,Nova Scotia,Nouvelle-Écosse,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,103713,12,,
+12,Nova Scotia,Nouvelle-Écosse,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,7301,0.8,,
+12,Nova Scotia,Nouvelle-Écosse,2023-01-29,5+,Moderna Spikevax,123060,14.2,,
+12,Nova Scotia,Nouvelle-Écosse,2023-01-29,5+,All other vaccines,5561,0.6,,
+13,New Brunswick,Nouveau-Brunswick,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,70744,10.6,,
+13,New Brunswick,Nouveau-Brunswick,2023-01-29,5+,Pfizer-BioNTech Comirnaty,176982,26.6,,
+13,New Brunswick,Nouveau-Brunswick,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,45919,6.9,,
+13,New Brunswick,Nouveau-Brunswick,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,2051,0.3,,
+13,New Brunswick,Nouveau-Brunswick,2023-01-29,5+,Moderna Spikevax,113890,17.1,,
+13,New Brunswick,Nouveau-Brunswick,2023-01-29,5+,All other vaccines,106,0,,
+24,Quebec,Québec,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,798823,,,
+24,Quebec,Québec,2023-01-29,5+,Pfizer-BioNTech Comirnaty,1546585,,,
+24,Quebec,Québec,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,941234,,,
+24,Quebec,Québec,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,24286,,,
+24,Quebec,Québec,2023-01-29,5+,Moderna Spikevax,1409178,,,
+24,Quebec,Québec,2023-01-29,5+,All other vaccines,2628,,,
+35,Ontario,Ontario,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,1671586,13.7,,
+35,Ontario,Ontario,2023-01-29,5+,Pfizer-BioNTech Comirnaty,2972827,24.4,,
+35,Ontario,Ontario,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,1188917,9.7,,
+35,Ontario,Ontario,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+35,Ontario,Ontario,2023-01-29,5+,Moderna Spikevax,1860938,15.3,,
+35,Ontario,Ontario,2023-01-29,5+,All other vaccines,5337,0,,
+46,Manitoba,Manitoba,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,147861,13.3,,
+46,Manitoba,Manitoba,2023-01-29,5+,Pfizer-BioNTech Comirnaty,241134,21.7,,
+46,Manitoba,Manitoba,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,122989,11.1,,
+46,Manitoba,Manitoba,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+46,Manitoba,Manitoba,2023-01-29,5+,Moderna Spikevax,132588,12,,
+46,Manitoba,Manitoba,2023-01-29,5+,All other vaccines,263,0,,
+47,Saskatchewan,Saskatchewan,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,108581,11.9,,
+47,Saskatchewan,Saskatchewan,2023-01-29,5+,Pfizer-BioNTech Comirnaty,256053,28,,
+47,Saskatchewan,Saskatchewan,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,95437,10.4,,
+47,Saskatchewan,Saskatchewan,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+47,Saskatchewan,Saskatchewan,2023-01-29,5+,Moderna Spikevax,69167,7.6,,
+47,Saskatchewan,Saskatchewan,2023-01-29,5+,All other vaccines,74,0,,
+48,Alberta,Alberta,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,260360,7.6,,
+48,Alberta,Alberta,2023-01-29,5+,Pfizer-BioNTech Comirnaty,1087982,31.7,,
+48,Alberta,Alberta,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,145678,4.2,,
+48,Alberta,Alberta,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+48,Alberta,Alberta,2023-01-29,5+,Moderna Spikevax,321493,9.4,,
+48,Alberta,Alberta,2023-01-29,5+,All other vaccines,1161,0,,
+59,British Columbia,Colombie-Britannique,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,664572,15.1,,
+59,British Columbia,Colombie-Britannique,2023-01-29,5+,Pfizer-BioNTech Comirnaty,787569,17.9,,
+59,British Columbia,Colombie-Britannique,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,946521,21.5,,
+59,British Columbia,Colombie-Britannique,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+59,British Columbia,Colombie-Britannique,2023-01-29,5+,Moderna Spikevax,540979,12.3,,
+59,British Columbia,Colombie-Britannique,2023-01-29,5+,All other vaccines,4156,0.1,,
+60,Yukon,Yukon,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,3195,9,,
+60,Yukon,Yukon,2023-01-29,5+,Pfizer-BioNTech Comirnaty,2706,7.7,,
+60,Yukon,Yukon,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,3886,11,,
+60,Yukon,Yukon,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+60,Yukon,Yukon,2023-01-29,5+,Moderna Spikevax,11815,33.4,,
+60,Yukon,Yukon,2023-01-29,5+,All other vaccines,55,0.2,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,18,0.1,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-01-29,5+,Pfizer-BioNTech Comirnaty,3508,10.7,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,1471,4.5,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-01-29,5+,Moderna Spikevax,13801,42.2,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-01-29,5+,All other vaccines,175,0.5,,
+62,Nunavut,Nunavut,2023-01-29,5+,Pfizer-BioNTech Comirnaty Bivalent,0,0,,
+62,Nunavut,Nunavut,2023-01-29,5+,Pfizer-BioNTech Comirnaty,1279,4.4,,
+62,Nunavut,Nunavut,2023-01-29,5+,Moderna Spikevax Bivalent Original/BA1,1542,5.3,,
+62,Nunavut,Nunavut,2023-01-29,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+62,Nunavut,Nunavut,2023-01-29,5+,Moderna Spikevax,12064,41.6,,
+62,Nunavut,Nunavut,2023-01-29,5+,All other vaccines,135,0.5,,
+1,Canada,Canada,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,4060424,13.3,,
+1,Canada,Canada,2023-02-26,5+,Pfizer-BioNTech Comirnaty,7294417,23.7,,
+1,Canada,Canada,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,3695161,11.3,,
+1,Canada,Canada,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,41126,0.1,,
+1,Canada,Canada,2023-02-26,5+,Moderna Spikevax,4688700,13.5,,
+1,Canada,Canada,2023-02-26,5+,All other vaccines,19700,0.1,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,30222,6.3,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-02-26,5+,Pfizer-BioNTech Comirnaty,86470,17.9,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,58580,12.1,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-02-26,5+,Moderna Spikevax,134953,28,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-02-26,5+,All other vaccines,156,0,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,16381,11.3,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-02-26,5+,Pfizer-BioNTech Comirnaty,36640,25.2,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,14818,10.2,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,304,0.2,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-02-26,5+,Moderna Spikevax,19973,13.7,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-02-26,5+,All other vaccines,29,0,,
+12,Nova Scotia,Nouvelle-Écosse,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,118437,13.7,,
+12,Nova Scotia,Nouvelle-Écosse,2023-02-26,5+,Pfizer-BioNTech Comirnaty,202504,23.4,,
+12,Nova Scotia,Nouvelle-Écosse,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,103697,12,,
+12,Nova Scotia,Nouvelle-Écosse,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,9782,1.1,,
+12,Nova Scotia,Nouvelle-Écosse,2023-02-26,5+,Moderna Spikevax,118841,13.7,,
+12,Nova Scotia,Nouvelle-Écosse,2023-02-26,5+,All other vaccines,5346,0.6,,
+13,New Brunswick,Nouveau-Brunswick,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,80494,12.1,,
+13,New Brunswick,Nouveau-Brunswick,2023-02-26,5+,Pfizer-BioNTech Comirnaty,169051,25.4,,
+13,New Brunswick,Nouveau-Brunswick,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,46867,7,,
+13,New Brunswick,Nouveau-Brunswick,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,3411,0.5,,
+13,New Brunswick,Nouveau-Brunswick,2023-02-26,5+,Moderna Spikevax,110604,16.6,,
+13,New Brunswick,Nouveau-Brunswick,2023-02-26,5+,All other vaccines,100,0,,
+24,Quebec,Québec,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,817605,,,
+24,Quebec,Québec,2023-02-26,5+,Pfizer-BioNTech Comirnaty,1536579,,,
+24,Quebec,Québec,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,944380,,,
+24,Quebec,Québec,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,27629,,,
+24,Quebec,Québec,2023-02-26,5+,Moderna Spikevax,1398581,,,
+24,Quebec,Québec,2023-02-26,5+,All other vaccines,2547,,,
+35,Ontario,Ontario,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,1760267,14.4,,
+35,Ontario,Ontario,2023-02-26,5+,Pfizer-BioNTech Comirnaty,2914373,23.9,,
+35,Ontario,Ontario,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,1199166,9.8,,
+35,Ontario,Ontario,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+35,Ontario,Ontario,2023-02-26,5+,Moderna Spikevax,1823411,15,,
+35,Ontario,Ontario,2023-02-26,5+,All other vaccines,5654,0,,
+46,Manitoba,Manitoba,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,158317,14.3,,
+46,Manitoba,Manitoba,2023-02-26,5+,Pfizer-BioNTech Comirnaty,233220,21,,
+46,Manitoba,Manitoba,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,124494,11.2,,
+46,Manitoba,Manitoba,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+46,Manitoba,Manitoba,2023-02-26,5+,Moderna Spikevax,129673,11.7,,
+46,Manitoba,Manitoba,2023-02-26,5+,All other vaccines,276,0,,
+47,Saskatchewan,Saskatchewan,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,114013,12.5,,
+47,Saskatchewan,Saskatchewan,2023-02-26,5+,Pfizer-BioNTech Comirnaty,251588,27.5,,
+47,Saskatchewan,Saskatchewan,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,96403,10.5,,
+47,Saskatchewan,Saskatchewan,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+47,Saskatchewan,Saskatchewan,2023-02-26,5+,Moderna Spikevax,68295,7.5,,
+47,Saskatchewan,Saskatchewan,2023-02-26,5+,All other vaccines,86,0,,
+48,Alberta,Alberta,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,273967,8,,
+48,Alberta,Alberta,2023-02-26,5+,Pfizer-BioNTech Comirnaty,1080641,31.5,,
+48,Alberta,Alberta,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,146288,4.3,,
+48,Alberta,Alberta,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+48,Alberta,Alberta,2023-02-26,5+,Moderna Spikevax,318914,9.3,,
+48,Alberta,Alberta,2023-02-26,5+,All other vaccines,1184,0,,
+59,British Columbia,Colombie-Britannique,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,687095,15.6,,
+59,British Columbia,Colombie-Britannique,2023-02-26,5+,Pfizer-BioNTech Comirnaty,775557,17.6,,
+59,British Columbia,Colombie-Britannique,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,952972,21.7,,
+59,British Columbia,Colombie-Britannique,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+59,British Columbia,Colombie-Britannique,2023-02-26,5+,Moderna Spikevax,528725,12,,
+59,British Columbia,Colombie-Britannique,2023-02-26,5+,All other vaccines,3944,0.1,,
+60,Yukon,Yukon,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,3539,10,,
+60,Yukon,Yukon,2023-02-26,5+,Pfizer-BioNTech Comirnaty,2611,7.4,,
+60,Yukon,Yukon,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,4025,11.4,,
+60,Yukon,Yukon,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+60,Yukon,Yukon,2023-02-26,5+,Moderna Spikevax,11372,32.2,,
+60,Yukon,Yukon,2023-02-26,5+,All other vaccines,110,0.3,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,77,0.2,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-02-26,5+,Pfizer-BioNTech Comirnaty,3738,11.6,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,1625,5,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-02-26,5+,Moderna Spikevax,13217,40.9,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-02-26,5+,All other vaccines,165,0.5,,
+62,Nunavut,Nunavut,2023-02-26,5+,Pfizer-BioNTech Comirnaty Bivalent,10,0,,
+62,Nunavut,Nunavut,2023-02-26,5+,Pfizer-BioNTech Comirnaty,1445,4.8,,
+62,Nunavut,Nunavut,2023-02-26,5+,Moderna Spikevax Bivalent Original/BA1,1846,6.2,,
+62,Nunavut,Nunavut,2023-02-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+62,Nunavut,Nunavut,2023-02-26,5+,Moderna Spikevax,12141,40.6,,
+62,Nunavut,Nunavut,2023-02-26,5+,All other vaccines,103,0.3,,
+1,Canada,Canada,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,4185737,13.8,,
+1,Canada,Canada,2023-03-26,5+,Pfizer-BioNTech Comirnaty,7221292,23.4,,
+1,Canada,Canada,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,3694419,11.3,,
+1,Canada,Canada,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,48273,0.1,,
+1,Canada,Canada,2023-03-26,5+,Moderna Spikevax,4643076,13.4,,
+1,Canada,Canada,2023-03-26,5+,All other vaccines,19432,0.1,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,31135,6.5,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-03-26,5+,Pfizer-BioNTech Comirnaty,86459,18,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,59465,12.4,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-03-26,5+,Moderna Spikevax,133214,27.7,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-03-26,5+,All other vaccines,167,0,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,18132,12.5,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-03-26,5+,Pfizer-BioNTech Comirnaty,35142,24.2,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,14974,10.3,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,475,0.3,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-03-26,5+,Moderna Spikevax,19423,13.4,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-03-26,5+,All other vaccines,24,0,,
+12,Nova Scotia,Nouvelle-Écosse,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,126289,14.6,,
+12,Nova Scotia,Nouvelle-Écosse,2023-03-26,5+,Pfizer-BioNTech Comirnaty,197167,22.7,,
+12,Nova Scotia,Nouvelle-Écosse,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,103594,11.9,,
+12,Nova Scotia,Nouvelle-Écosse,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,10071,1.2,,
+12,Nova Scotia,Nouvelle-Écosse,2023-03-26,5+,Moderna Spikevax,116781,13.5,,
+12,Nova Scotia,Nouvelle-Écosse,2023-03-26,5+,All other vaccines,5222,0.6,,
+13,New Brunswick,Nouveau-Brunswick,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,84983,12.8,,
+13,New Brunswick,Nouveau-Brunswick,2023-03-26,5+,Pfizer-BioNTech Comirnaty,165486,24.9,,
+13,New Brunswick,Nouveau-Brunswick,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,46940,7.1,,
+13,New Brunswick,Nouveau-Brunswick,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,3979,0.6,,
+13,New Brunswick,Nouveau-Brunswick,2023-03-26,5+,Moderna Spikevax,109303,16.4,,
+13,New Brunswick,Nouveau-Brunswick,2023-03-26,5+,All other vaccines,103,0,,
+24,Quebec,Québec,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,829871,,,
+24,Quebec,Québec,2023-03-26,5+,Pfizer-BioNTech Comirnaty,1530100,,,
+24,Quebec,Québec,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,945844,,,
+24,Quebec,Québec,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,31682,,,
+24,Quebec,Québec,2023-03-26,5+,Moderna Spikevax,1391384,,,
+24,Quebec,Québec,2023-03-26,5+,All other vaccines,2580,,,
+35,Ontario,Ontario,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,1822736,15,,
+35,Ontario,Ontario,2023-03-26,5+,Pfizer-BioNTech Comirnaty,2879557,23.6,,
+35,Ontario,Ontario,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,1190496,9.8,,
+35,Ontario,Ontario,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,2066,0,,
+35,Ontario,Ontario,2023-03-26,5+,Moderna Spikevax,1802537,14.8,,
+35,Ontario,Ontario,2023-03-26,5+,All other vaccines,5649,0,,
+46,Manitoba,Manitoba,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,164987,14.9,,
+46,Manitoba,Manitoba,2023-03-26,5+,Pfizer-BioNTech Comirnaty,228385,20.6,,
+46,Manitoba,Manitoba,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,124924,11.3,,
+46,Manitoba,Manitoba,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+46,Manitoba,Manitoba,2023-03-26,5+,Moderna Spikevax,127821,11.5,,
+46,Manitoba,Manitoba,2023-03-26,5+,All other vaccines,283,0,,
+47,Saskatchewan,Saskatchewan,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,116977,12.8,,
+47,Saskatchewan,Saskatchewan,2023-03-26,5+,Pfizer-BioNTech Comirnaty,249260,27.2,,
+47,Saskatchewan,Saskatchewan,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,96793,10.6,,
+47,Saskatchewan,Saskatchewan,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+47,Saskatchewan,Saskatchewan,2023-03-26,5+,Moderna Spikevax,67788,7.4,,
+47,Saskatchewan,Saskatchewan,2023-03-26,5+,All other vaccines,91,0,,
+48,Alberta,Alberta,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,282843,8.2,,
+48,Alberta,Alberta,2023-03-26,5+,Pfizer-BioNTech Comirnaty,1075864,31.3,,
+48,Alberta,Alberta,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,146751,4.3,,
+48,Alberta,Alberta,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+48,Alberta,Alberta,2023-03-26,5+,Moderna Spikevax,317373,9.2,,
+48,Alberta,Alberta,2023-03-26,5+,All other vaccines,1192,0,,
+59,British Columbia,Colombie-Britannique,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,703871,16,,
+59,British Columbia,Colombie-Britannique,2023-03-26,5+,Pfizer-BioNTech Comirnaty,765832,17.4,,
+59,British Columbia,Colombie-Britannique,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,956897,21.7,,
+59,British Columbia,Colombie-Britannique,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+59,British Columbia,Colombie-Britannique,2023-03-26,5+,Moderna Spikevax,520697,11.8,,
+59,British Columbia,Colombie-Britannique,2023-03-26,5+,All other vaccines,3965,0.1,,
+60,Yukon,Yukon,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,3809,10.8,,
+60,Yukon,Yukon,2023-03-26,5+,Pfizer-BioNTech Comirnaty,2589,7.3,,
+60,Yukon,Yukon,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,4057,11.5,,
+60,Yukon,Yukon,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+60,Yukon,Yukon,2023-03-26,5+,Moderna Spikevax,11135,31.5,,
+60,Yukon,Yukon,2023-03-26,5+,All other vaccines,113,0.3,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,78,0.2,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-03-26,5+,Pfizer-BioNTech Comirnaty,3889,11.9,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,1669,5.1,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-03-26,5+,Moderna Spikevax,13362,41,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-03-26,5+,All other vaccines,39,0.1,,
+62,Nunavut,Nunavut,2023-03-26,5+,Pfizer-BioNTech Comirnaty Bivalent,26,0.1,,
+62,Nunavut,Nunavut,2023-03-26,5+,Pfizer-BioNTech Comirnaty,1562,5.1,,
+62,Nunavut,Nunavut,2023-03-26,5+,Moderna Spikevax Bivalent Original/BA1,2015,6.6,,
+62,Nunavut,Nunavut,2023-03-26,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+62,Nunavut,Nunavut,2023-03-26,5+,Moderna Spikevax,12258,40.3,,
+62,Nunavut,Nunavut,2023-03-26,5+,All other vaccines,4,0,,
+1,Canada,Canada,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,4353619,14.5,,
+1,Canada,Canada,2023-04-23,5+,Pfizer-BioNTech Comirnaty,7150561,23.2,,
+1,Canada,Canada,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,3588918,10.9,,
+1,Canada,Canada,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,73749,0.2,,
+1,Canada,Canada,2023-04-23,5+,Moderna Spikevax,4599945,13.3,,
+1,Canada,Canada,2023-04-23,5+,All other vaccines,20149,0.1,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,32198,6.7,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-04-23,5+,Pfizer-BioNTech Comirnaty,86613,18,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,58823,12.2,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-04-23,5+,Moderna Spikevax,132766,27.6,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-04-23,5+,All other vaccines,171,0,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,19484,13.4,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-04-23,5+,Pfizer-BioNTech Comirnaty,34430,23.7,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,14736,10.1,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,516,0.4,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-04-23,5+,Moderna Spikevax,19104,13.1,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-04-23,5+,All other vaccines,30,0,,
+12,Nova Scotia,Nouvelle-Écosse,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,129287,16.2,,
+12,Nova Scotia,Nouvelle-Écosse,2023-04-23,5+,Pfizer-BioNTech Comirnaty,176371,22.1,,
+12,Nova Scotia,Nouvelle-Écosse,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,99234,12.4,,
+12,Nova Scotia,Nouvelle-Écosse,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,10451,1.3,,
+12,Nova Scotia,Nouvelle-Écosse,2023-04-23,5+,Moderna Spikevax,105064,13.2,,
+12,Nova Scotia,Nouvelle-Écosse,2023-04-23,5+,All other vaccines,4339,0.5,,
+13,New Brunswick,Nouveau-Brunswick,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,88019,13.2,,
+13,New Brunswick,Nouveau-Brunswick,2023-04-23,5+,Pfizer-BioNTech Comirnaty,163164,24.5,,
+13,New Brunswick,Nouveau-Brunswick,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,46754,7,,
+13,New Brunswick,Nouveau-Brunswick,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,4464,0.7,,
+13,New Brunswick,Nouveau-Brunswick,2023-04-23,5+,Moderna Spikevax,108498,16.3,,
+13,New Brunswick,Nouveau-Brunswick,2023-04-23,5+,All other vaccines,126,0,,
+24,Quebec,Québec,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,838791,,,
+24,Quebec,Québec,2023-04-23,5+,Pfizer-BioNTech Comirnaty,1527672,,,
+24,Quebec,Québec,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,944653,,,
+24,Quebec,Québec,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,34678,,,
+24,Quebec,Québec,2023-04-23,5+,Moderna Spikevax,1388056,,,
+24,Quebec,Québec,2023-04-23,5+,All other vaccines,2660,,,
+35,Ontario,Ontario,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,1884506,15.5,,
+35,Ontario,Ontario,2023-04-23,5+,Pfizer-BioNTech Comirnaty,2857480,23.5,,
+35,Ontario,Ontario,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,1141657,9.4,,
+35,Ontario,Ontario,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,21868,0.2,,
+35,Ontario,Ontario,2023-04-23,5+,Moderna Spikevax,1789292,14.7,,
+35,Ontario,Ontario,2023-04-23,5+,All other vaccines,5932,0,,
+46,Manitoba,Manitoba,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,171228,15.5,,
+46,Manitoba,Manitoba,2023-04-23,5+,Pfizer-BioNTech Comirnaty,225552,20.4,,
+46,Manitoba,Manitoba,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,121936,11,,
+46,Manitoba,Manitoba,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+46,Manitoba,Manitoba,2023-04-23,5+,Moderna Spikevax,126672,11.4,,
+46,Manitoba,Manitoba,2023-04-23,5+,All other vaccines,1078,0.1,,
+47,Saskatchewan,Saskatchewan,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,120958,13.2,,
+47,Saskatchewan,Saskatchewan,2023-04-23,5+,Pfizer-BioNTech Comirnaty,247556,27,,
+47,Saskatchewan,Saskatchewan,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,93418,10.2,,
+47,Saskatchewan,Saskatchewan,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,1761,0.2,,
+47,Saskatchewan,Saskatchewan,2023-04-23,5+,Moderna Spikevax,67537,7.4,,
+47,Saskatchewan,Saskatchewan,2023-04-23,5+,All other vaccines,98,0,,
+48,Alberta,Alberta,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,289102,8.4,,
+48,Alberta,Alberta,2023-04-23,5+,Pfizer-BioNTech Comirnaty,1072689,31.2,,
+48,Alberta,Alberta,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,146876,4.3,,
+48,Alberta,Alberta,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+48,Alberta,Alberta,2023-04-23,5+,Moderna Spikevax,316296,9.2,,
+48,Alberta,Alberta,2023-04-23,5+,All other vaccines,1194,0,,
+59,British Columbia,Colombie-Britannique,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,773908,17.6,,
+59,British Columbia,Colombie-Britannique,2023-04-23,5+,Pfizer-BioNTech Comirnaty,753172,17.1,,
+59,British Columbia,Colombie-Britannique,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,912780,20.7,,
+59,British Columbia,Colombie-Britannique,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+59,British Columbia,Colombie-Britannique,2023-04-23,5+,Moderna Spikevax,510422,11.6,,
+59,British Columbia,Colombie-Britannique,2023-04-23,5+,All other vaccines,4098,0.1,,
+60,Yukon,Yukon,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,3863,10.9,,
+60,Yukon,Yukon,2023-04-23,5+,Pfizer-BioNTech Comirnaty,2605,7.4,,
+60,Yukon,Yukon,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,4049,11.5,,
+60,Yukon,Yukon,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+60,Yukon,Yukon,2023-04-23,5+,Moderna Spikevax,11074,31.3,,
+60,Yukon,Yukon,2023-04-23,5+,All other vaccines,114,0.3,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,2219,6.9,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-04-23,5+,Pfizer-BioNTech Comirnaty,1702,5.3,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,1971,6.1,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,11,0,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-04-23,5+,Moderna Spikevax,12941,40.1,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-04-23,5+,All other vaccines,305,0.9,,
+62,Nunavut,Nunavut,2023-04-23,5+,Pfizer-BioNTech Comirnaty Bivalent,56,0.2,,
+62,Nunavut,Nunavut,2023-04-23,5+,Pfizer-BioNTech Comirnaty,1555,5.1,,
+62,Nunavut,Nunavut,2023-04-23,5+,Moderna Spikevax Bivalent Original/BA1,2031,6.7,,
+62,Nunavut,Nunavut,2023-04-23,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+62,Nunavut,Nunavut,2023-04-23,5+,Moderna Spikevax,12223,40.2,,
+62,Nunavut,Nunavut,2023-04-23,5+,All other vaccines,4,0,,
+1,Canada,Canada,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,4657694,15.7,,
+1,Canada,Canada,2023-06-18,5+,Pfizer-BioNTech Comirnaty,7106609,23,,
+1,Canada,Canada,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,3301334,9.7,,
+1,Canada,Canada,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,172088,0.6,,
+1,Canada,Canada,2023-06-18,5+,Moderna Spikevax,4558646,13.1,,
+1,Canada,Canada,2023-06-18,5+,All other vaccines,25052,0.1,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,33322,6.9,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-06-18,5+,Pfizer-BioNTech Comirnaty,90355,18.8,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,54281,11.3,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-06-18,5+,Moderna Spikevax,132633,27.6,,
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-06-18,5+,All other vaccines,192,0,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,21271,14.6,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-06-18,5+,Pfizer-BioNTech Comirnaty,33767,23.2,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,13828,9.5,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,605,0.4,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-06-18,5+,Moderna Spikevax,18768,12.9,,
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-06-18,5+,All other vaccines,24,0,,
+12,Nova Scotia,Nouvelle-Écosse,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,143357,18,,
+12,Nova Scotia,Nouvelle-Écosse,2023-06-18,5+,Pfizer-BioNTech Comirnaty,172845,21.7,,
+12,Nova Scotia,Nouvelle-Écosse,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,85014,10.7,,
+12,Nova Scotia,Nouvelle-Écosse,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,15652,2,,
+12,Nova Scotia,Nouvelle-Écosse,2023-06-18,5+,Moderna Spikevax,103565,13,,
+12,Nova Scotia,Nouvelle-Écosse,2023-06-18,5+,All other vaccines,4229,0.5,,
+13,New Brunswick,Nouveau-Brunswick,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,91577,13.8,,
+13,New Brunswick,Nouveau-Brunswick,2023-06-18,5+,Pfizer-BioNTech Comirnaty,160175,24.1,,
+13,New Brunswick,Nouveau-Brunswick,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,45658,6.9,,
+13,New Brunswick,Nouveau-Brunswick,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,6131,0.9,,
+13,New Brunswick,Nouveau-Brunswick,2023-06-18,5+,Moderna Spikevax,107442,16.2,,
+13,New Brunswick,Nouveau-Brunswick,2023-06-18,5+,All other vaccines,123,0,,
+24,Quebec,Québec,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,849510,,,
+24,Quebec,Québec,2023-06-18,5+,Pfizer-BioNTech Comirnaty,1525901,,,
+24,Quebec,Québec,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,941070,,,
+24,Quebec,Québec,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,38282,,,
+24,Quebec,Québec,2023-06-18,5+,Moderna Spikevax,1383886,,,
+24,Quebec,Québec,2023-06-18,5+,All other vaccines,2610,,,
+35,Ontario,Ontario,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,2015395,16.5,,
+35,Ontario,Ontario,2023-06-18,5+,Pfizer-BioNTech Comirnaty,2842969,23.3,,
+35,Ontario,Ontario,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,982792,8.1,,
+35,Ontario,Ontario,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,104279,0.9,,
+35,Ontario,Ontario,2023-06-18,5+,Moderna Spikevax,1771445,14.5,,
+35,Ontario,Ontario,2023-06-18,5+,All other vaccines,6864,0.1,,
+46,Manitoba,Manitoba,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,181416,16.4,,
+46,Manitoba,Manitoba,2023-06-18,5+,Pfizer-BioNTech Comirnaty,221297,20,,
+46,Manitoba,Manitoba,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,113389,10.3,,
+46,Manitoba,Manitoba,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+46,Manitoba,Manitoba,2023-06-18,5+,Moderna Spikevax,125212,11.3,,
+46,Manitoba,Manitoba,2023-06-18,5+,All other vaccines,4982,0.5,,
+47,Saskatchewan,Saskatchewan,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,127016,13.9,,
+47,Saskatchewan,Saskatchewan,2023-06-18,5+,Pfizer-BioNTech Comirnaty,245419,26.8,,
+47,Saskatchewan,Saskatchewan,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,85857,9.4,,
+47,Saskatchewan,Saskatchewan,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,6452,0.7,,
+47,Saskatchewan,Saskatchewan,2023-06-18,5+,Moderna Spikevax,67004,7.3,,
+47,Saskatchewan,Saskatchewan,2023-06-18,5+,All other vaccines,106,0,,
+48,Alberta,Alberta,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,296450,8.6,,
+48,Alberta,Alberta,2023-06-18,5+,Pfizer-BioNTech Comirnaty,1069069,31.1,,
+48,Alberta,Alberta,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,146765,4.3,,
+48,Alberta,Alberta,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+48,Alberta,Alberta,2023-06-18,5+,Moderna Spikevax,315160,9.2,,
+48,Alberta,Alberta,2023-06-18,5+,All other vaccines,1203,0,,
+59,British Columbia,Colombie-Britannique,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,892052,20.3,,
+59,British Columbia,Colombie-Britannique,2023-06-18,5+,Pfizer-BioNTech Comirnaty,738993,16.8,,
+59,British Columbia,Colombie-Britannique,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,825049,18.7,,
+59,British Columbia,Colombie-Britannique,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+59,British Columbia,Colombie-Britannique,2023-06-18,5+,Moderna Spikevax,497708,11.3,,
+59,British Columbia,Colombie-Britannique,2023-06-18,5+,All other vaccines,4326,0.1,,
+60,Yukon,Yukon,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,3969,11.3,,
+60,Yukon,Yukon,2023-06-18,5+,Pfizer-BioNTech Comirnaty,2545,7.2,,
+60,Yukon,Yukon,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,3606,10.2,,
+60,Yukon,Yukon,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,657,1.9,,
+60,Yukon,Yukon,2023-06-18,5+,Moderna Spikevax,10729,30.4,,
+60,Yukon,Yukon,2023-06-18,5+,All other vaccines,144,0.4,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,2191,6.8,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-06-18,5+,Pfizer-BioNTech Comirnaty,1710,5.3,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,2009,6.2,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,30,0.1,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-06-18,5+,Moderna Spikevax,12950,40.2,,
+61,Northwest Territories,Territoires du Nord-Ouest,2023-06-18,5+,All other vaccines,245,0.8,,
+62,Nunavut,Nunavut,2023-06-18,5+,Pfizer-BioNTech Comirnaty Bivalent,168,0.6,,
+62,Nunavut,Nunavut,2023-06-18,5+,Pfizer-BioNTech Comirnaty,1564,5.1,,
+62,Nunavut,Nunavut,2023-06-18,5+,Moderna Spikevax Bivalent Original/BA1,2016,6.6,,
+62,Nunavut,Nunavut,2023-06-18,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,,
+62,Nunavut,Nunavut,2023-06-18,5+,Moderna Spikevax,12144,39.9,,
+62,Nunavut,Nunavut,2023-06-18,5+,All other vaccines,4,0,,
+1,Canada,Canada,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,4752607,16.1,4809439,14.9
+1,Canada,Canada,2023-09-10,5+,Pfizer-BioNTech Comirnaty,7074860,22.9,16374218,50.6
+1,Canada,Canada,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,3223182,9.4,3244270,10
+1,Canada,Canada,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,205587,0.7,209350,0.6
+1,Canada,Canada,2023-09-10,5+,Moderna Spikevax,4533703,13,7516428,23.2
+1,Canada,Canada,2023-09-10,5+,All other vaccines,26605,0.1,207524,0.6
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,34369,7.1,35193,7
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-09-10,5+,Pfizer-BioNTech Comirnaty,91368,19,214474,42.6
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,52842,11,53827,10.7
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,0,0
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-09-10,5+,Moderna Spikevax,132107,27.5,199150,39.6
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-09-10,5+,All other vaccines,205,0,516,0.1
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,21309,14.6,21676,14.1
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-09-10,5+,Pfizer-BioNTech Comirnaty,33735,23.2,79363,51.6
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,13846,9.5,14108,9.2
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,646,0.4,646,0.4
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-09-10,5+,Moderna Spikevax,18755,12.9,36536,23.8
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-09-10,5+,All other vaccines,24,0,418,0.3
+12,Nova Scotia,Nouvelle-Écosse,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,147311,18.3,147627,17.5
+12,Nova Scotia,Nouvelle-Écosse,2023-09-10,5+,Pfizer-BioNTech Comirnaty,175126,21.7,405980,48.3
+12,Nova Scotia,Nouvelle-Écosse,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,84004,10.4,84130,10
+12,Nova Scotia,Nouvelle-Écosse,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,18175,2.3,18233,2.2
+12,Nova Scotia,Nouvelle-Écosse,2023-09-10,5+,Moderna Spikevax,104886,13,177394,21.1
+12,Nova Scotia,Nouvelle-Écosse,2023-09-10,5+,All other vaccines,4507,0.6,7849,0.9
+13,New Brunswick,Nouveau-Brunswick,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,93267,14,93267,13.2
+13,New Brunswick,Nouveau-Brunswick,2023-09-10,5+,Pfizer-BioNTech Comirnaty,158668,23.8,381281,54
+13,New Brunswick,Nouveau-Brunswick,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,45210,6.8,45210,6.4
+13,New Brunswick,Nouveau-Brunswick,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,7084,1.1,7084,1
+13,New Brunswick,Nouveau-Brunswick,2023-09-10,5+,Moderna Spikevax,106903,16.1,176838,25
+13,New Brunswick,Nouveau-Brunswick,2023-09-10,5+,All other vaccines,143,0,1584,0.2
+24,Quebec,Québec,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,856387,,860066,12.2
+24,Quebec,Québec,2023-09-10,5+,Pfizer-BioNTech Comirnaty,1524525,,3320004,47.2
+24,Quebec,Québec,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,936071,,938402,13.3
+24,Quebec,Québec,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,40446,,40791,0.6
+24,Quebec,Québec,2023-09-10,5+,Moderna Spikevax,1378462,,1851209,26.3
+24,Quebec,Québec,2023-09-10,5+,All other vaccines,2615,,18082,0.3
+35,Ontario,Ontario,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,2053812,16.9,2083294,16.5
+35,Ontario,Ontario,2023-09-10,5+,Pfizer-BioNTech Comirnaty,2822058,23.2,6484427,51.2
+35,Ontario,Ontario,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,936942,7.7,946153,7.5
+35,Ontario,Ontario,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,130296,1.1,133107,1.1
+35,Ontario,Ontario,2023-09-10,5+,Moderna Spikevax,1758851,14.5,2919221,23.1
+35,Ontario,Ontario,2023-09-10,5+,All other vaccines,7381,0.1,87627,0.7
+46,Manitoba,Manitoba,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,185361,16.8,188447,16.3
+46,Manitoba,Manitoba,2023-09-10,5+,Pfizer-BioNTech Comirnaty,219235,19.9,567842,49.1
+46,Manitoba,Manitoba,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,110824,10,112079,9.7
+46,Manitoba,Manitoba,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,0,0
+46,Manitoba,Manitoba,2023-09-10,5+,Moderna Spikevax,124344,11.3,276199,23.9
+46,Manitoba,Manitoba,2023-09-10,5+,All other vaccines,5530,0.5,11232,1
+47,Saskatchewan,Saskatchewan,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,130583,14.2,133620,13.7
+47,Saskatchewan,Saskatchewan,2023-09-10,5+,Pfizer-BioNTech Comirnaty,243974,26.6,584147,59.7
+47,Saskatchewan,Saskatchewan,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,83347,9.1,84180,8.6
+47,Saskatchewan,Saskatchewan,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,7659,0.8,8208,0.8
+47,Saskatchewan,Saskatchewan,2023-09-10,5+,Moderna Spikevax,66759,7.3,161883,16.5
+47,Saskatchewan,Saskatchewan,2023-09-10,5+,All other vaccines,122,0,5137,0.5
+48,Alberta,Alberta,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,302245,8.8,302249,8.3
+48,Alberta,Alberta,2023-09-10,5+,Pfizer-BioNTech Comirnaty,1066354,31,2476547,68.4
+48,Alberta,Alberta,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,146674,4.3,146674,4
+48,Alberta,Alberta,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,0,0
+48,Alberta,Alberta,2023-09-10,5+,Moderna Spikevax,314324,9.1,672055,18.6
+48,Alberta,Alberta,2023-09-10,5+,All other vaccines,1210,0,24240,0.7
+59,British Columbia,Colombie-Britannique,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,920726,20.9,936737,20.3
+59,British Columbia,Colombie-Britannique,2023-09-10,5+,Pfizer-BioNTech Comirnaty,733948,16.7,1838395,39.8
+59,British Columbia,Colombie-Britannique,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,805520,18.3,811400,17.6
+59,British Columbia,Colombie-Britannique,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,0,0
+59,British Columbia,Colombie-Britannique,2023-09-10,5+,Moderna Spikevax,494031,11.2,978967,21.2
+59,British Columbia,Colombie-Britannique,2023-09-10,5+,All other vaccines,4438,0.1,50239,1.1
+60,Yukon,Yukon,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,3865,11,3865,10.4
+60,Yukon,Yukon,2023-09-10,5+,Pfizer-BioNTech Comirnaty,2550,7.2,6253,16.8
+60,Yukon,Yukon,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,3428,9.7,3428,9.2
+60,Yukon,Yukon,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,994,2.8,994,2.7
+60,Yukon,Yukon,2023-09-10,5+,Moderna Spikevax,10605,30.1,21883,58.8
+60,Yukon,Yukon,2023-09-10,5+,All other vaccines,174,0.5,293,0.8
+61,Northwest Territories,Territoires du Nord-Ouest,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,3061,9.2,3061,8.7
+61,Northwest Territories,Territoires du Nord-Ouest,2023-09-10,5+,Pfizer-BioNTech Comirnaty,1759,5.3,6736,19
+61,Northwest Territories,Territoires du Nord-Ouest,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,2525,7.6,2525,7.1
+61,Northwest Territories,Territoires du Nord-Ouest,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,287,0.9,287,0.8
+61,Northwest Territories,Territoires du Nord-Ouest,2023-09-10,5+,Moderna Spikevax,11590,35,21903,61.9
+61,Northwest Territories,Territoires du Nord-Ouest,2023-09-10,5+,All other vaccines,252,0.8,301,0.9
+62,Nunavut,Nunavut,2023-09-10,5+,Pfizer-BioNTech Comirnaty Bivalent,311,1,337,1
+62,Nunavut,Nunavut,2023-09-10,5+,Pfizer-BioNTech Comirnaty,1560,5.1,8769,25.4
+62,Nunavut,Nunavut,2023-09-10,5+,Moderna Spikevax Bivalent Original/BA1,1949,6.4,2154,6.3
+62,Nunavut,Nunavut,2023-09-10,5+,Moderna Spikevax Bivalent Original and BA4/BA5,0,0,0,0
+62,Nunavut,Nunavut,2023-09-10,5+,Moderna Spikevax,12086,39.7,23190,67.3
+62,Nunavut,Nunavut,2023-09-10,5+,All other vaccines,4,0,6,<0.1
+1,Canada,Canada,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,1185877,4.1
+1,Canada,Canada,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,632,<0.1
+1,Canada,Canada,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,7446,<0.1
+1,Canada,Canada,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,1638427,4.9
+1,Canada,Canada,2023-12-03,Total,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,1,<0.1
+1,Canada,Canada,2023-12-03,Total,Pfizer-BioNTech Comirnaty Bivalent,,,2533024,8.8
+1,Canada,Canada,2023-12-03,Total,Pfizer-BioNTech Comirnaty,,,13087304,45.5
+1,Canada,Canada,2023-12-03,Total,Moderna Spikevax XBB.1.5,,,2842025,8.4
+1,Canada,Canada,2023-12-03,Total,Moderna Spikevax Bivalent Original/BA1,,,1462102,5.1
+1,Canada,Canada,2023-12-03,Total,Moderna Spikevax Bivalent Original and BA4/BA5,,,130507,0.5
+1,Canada,Canada,2023-12-03,Total,Moderna Spikevax,,,6352071,22.1
+1,Canada,Canada,2023-12-03,Total,All other vaccines,,,181710,0.6
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,107,<0.1
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,407,0.1
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,15638,3.1
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Pfizer-BioNTech Comirnaty Bivalent,,,19369,3.8
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Pfizer-BioNTech Comirnaty,,,195053,38.7
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Moderna Spikevax XBB.1.5,,,64680,12.8
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Moderna Spikevax Bivalent Original/BA1,,,27781,5.5
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Moderna Spikevax Bivalent Original and BA4/BA5,,,0,0
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,Moderna Spikevax,,,180074,35.7
+10,Newfoundland and Labrador,Terre-Neuve-et-Labrador,2023-12-03,Total,All other vaccines,,,745,0.1
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,0,0
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,0,0
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,7681,5
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Pfizer-BioNTech Comirnaty Bivalent,,,9351,6
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Pfizer-BioNTech Comirnaty,,,72369,46.8
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Moderna Spikevax XBB.1.5,,,24288,15.7
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Moderna Spikevax Bivalent Original/BA1,,,6324,4.1
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Moderna Spikevax Bivalent Original and BA4/BA5,,,319,0.2
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,Moderna Spikevax,,,33790,21.8
+11,Prince Edward Island,Île-du-Prince-Édouard,2023-12-03,Total,All other vaccines,,,584,0.4
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,49,<0.1
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,430,0.1
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,50687,6
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Pfizer-BioNTech Comirnaty Bivalent,,,84323,10
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Pfizer-BioNTech Comirnaty,,,383541,45.5
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Moderna Spikevax XBB.1.5,,,93867,11.1
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Moderna Spikevax Bivalent Original/BA1,,,43406,5.2
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Moderna Spikevax Bivalent Original and BA4/BA5,,,11045,1.3
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,Moderna Spikevax,,,167231,19.9
+12,Nova Scotia,Nouvelle-Écosse,2023-12-03,Total,All other vaccines,,,7546,0.9
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,Total,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,60,<0.1
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,199,<0.1
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,57808,8.1
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent,,,50075,7.1
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,,Pfizer-BioNTech Comirnaty,,,356995,50.3
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,,Moderna Spikevax XBB.1.5,,,48433,6.8
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,,Moderna Spikevax Bivalent Original/BA1,,,20132,2.8
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,,Moderna Spikevax Bivalent Original and BA4/BA5,,,7182,1
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,,Moderna Spikevax,,,166904,23.5
+13,New Brunswick,Nouveau-Brunswick,2023-12-03,,All other vaccines,,,1914,0.3
+24,Quebec,Québec,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+24,Quebec,Québec,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,0,0
+24,Quebec,Québec,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,2040,<0.1
+24,Quebec,Québec,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,473907,6.7
+24,Quebec,Québec,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+24,Quebec,Québec,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent,,,536345,7.6
+24,Quebec,Québec,2023-12-03,,Pfizer-BioNTech Comirnaty,,,3041341,43.3
+24,Quebec,Québec,2023-12-03,,Moderna Spikevax XBB.1.5,,,802805,11.4
+24,Quebec,Québec,2023-12-03,,Moderna Spikevax Bivalent Original/BA1,,,441315,6.3
+24,Quebec,Québec,2023-12-03,,Moderna Spikevax Bivalent Original and BA4/BA5,,,41464,0.6
+24,Quebec,Québec,2023-12-03,,Moderna Spikevax,,,1663679,23.7
+24,Quebec,Québec,2023-12-03,,All other vaccines,,,18255,0.3
+35,Ontario,Ontario,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,1185877,9.4
+35,Ontario,Ontario,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,0,0
+35,Ontario,Ontario,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,0,0
+35,Ontario,Ontario,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,0,0
+35,Ontario,Ontario,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+35,Ontario,Ontario,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent,,,1233932,9.7
+35,Ontario,Ontario,2023-12-03,,Pfizer-BioNTech Comirnaty,,,6237337,49.3
+35,Ontario,Ontario,2023-12-03,,Moderna Spikevax XBB.1.5,,,547240,4.3
+35,Ontario,Ontario,2023-12-03,,Moderna Spikevax Bivalent Original/BA1,,,517316,4.1
+35,Ontario,Ontario,2023-12-03,,Moderna Spikevax Bivalent Original and BA4/BA5,,,66688,0.5
+35,Ontario,Ontario,2023-12-03,,Moderna Spikevax,,,2783310,22
+35,Ontario,Ontario,2023-12-03,,All other vaccines,,,87984,0.7
+46,Manitoba,Manitoba,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+46,Manitoba,Manitoba,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,27,<0.1
+46,Manitoba,Manitoba,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,197,<0.1
+46,Manitoba,Manitoba,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,54573,4.7
+46,Manitoba,Manitoba,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+46,Manitoba,Manitoba,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent,,,97533,8.4
+46,Manitoba,Manitoba,2023-12-03,,Pfizer-BioNTech Comirnaty,,,530709,45.9
+46,Manitoba,Manitoba,2023-12-03,,Moderna Spikevax XBB.1.5,,,154235,13.3
+46,Manitoba,Manitoba,2023-12-03,,Moderna Spikevax Bivalent Original/BA1,,,52368,4.5
+46,Manitoba,Manitoba,2023-12-03,,Moderna Spikevax Bivalent Original and BA4/BA5,,,0,0
+46,Manitoba,Manitoba,2023-12-03,,Moderna Spikevax,,,258155,22.3
+46,Manitoba,Manitoba,2023-12-03,,All other vaccines,,,8130,0.7
+47,Saskatchewan,Saskatchewan,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+47,Saskatchewan,Saskatchewan,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,366,<0.1
+47,Saskatchewan,Saskatchewan,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,1426,0.1
+47,Saskatchewan,Saskatchewan,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,69914,7.1
+47,Saskatchewan,Saskatchewan,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+47,Saskatchewan,Saskatchewan,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent,,,61632,6.3
+47,Saskatchewan,Saskatchewan,2023-12-03,,Pfizer-BioNTech Comirnaty,,,538166,54.7
+47,Saskatchewan,Saskatchewan,2023-12-03,,Moderna Spikevax XBB.1.5,,,125903,12.8
+47,Saskatchewan,Saskatchewan,2023-12-03,,Moderna Spikevax Bivalent Original/BA1,,,29576,3
+47,Saskatchewan,Saskatchewan,2023-12-03,,Moderna Spikevax Bivalent Original and BA4/BA5,,,2972,0.3
+47,Saskatchewan,Saskatchewan,2023-12-03,,Moderna Spikevax,,,148694,15.1
+47,Saskatchewan,Saskatchewan,2023-12-03,,All other vaccines,,,5380,0.5
+48,Alberta,Alberta,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+48,Alberta,Alberta,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,9,
+48,Alberta,Alberta,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,1047,
+48,Alberta,Alberta,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,236268,
+48,Alberta,Alberta,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+48,Alberta,Alberta,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent,,,0,0
+48,Alberta,Alberta,2023-12-03,,Pfizer-BioNTech Comirnaty,,,0,0
+48,Alberta,Alberta,2023-12-03,,Moderna Spikevax XBB.1.5,,,413968,
+48,Alberta,Alberta,2023-12-03,,Moderna Spikevax Bivalent Original/BA1,,,0,0
+48,Alberta,Alberta,2023-12-03,,Moderna Spikevax Bivalent Original and BA4/BA5,,,0,0
+48,Alberta,Alberta,2023-12-03,,Moderna Spikevax,,,0,0
+48,Alberta,Alberta,2023-12-03,,All other vaccines,,,0,0
+59,British Columbia,Colombie-Britannique,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+59,British Columbia,Colombie-Britannique,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,14,<0.1
+59,British Columbia,Colombie-Britannique,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,1700,<0.1
+59,British Columbia,Colombie-Britannique,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,671933,14.5
+59,British Columbia,Colombie-Britannique,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,1,<0.1
+59,British Columbia,Colombie-Britannique,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent,,,435578,9.4
+59,British Columbia,Colombie-Britannique,2023-12-03,,Pfizer-BioNTech Comirnaty,,,1710777,36.9
+59,British Columbia,Colombie-Britannique,2023-12-03,,Moderna Spikevax XBB.1.5,,,556864,12
+59,British Columbia,Colombie-Britannique,2023-12-03,,Moderna Spikevax Bivalent Original/BA1,,,318622,6.9
+59,British Columbia,Colombie-Britannique,2023-12-03,,Moderna Spikevax Bivalent Original and BA4/BA5,,,2,<0.1
+59,British Columbia,Colombie-Britannique,2023-12-03,,Moderna Spikevax,,,886654,19.1
+59,British Columbia,Colombie-Britannique,2023-12-03,,All other vaccines,,,49565,1.1
+60,Yukon,Yukon,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+60,Yukon,Yukon,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,0,0
+60,Yukon,Yukon,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,0,0
+60,Yukon,Yukon,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,18,<0.1
+60,Yukon,Yukon,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+60,Yukon,Yukon,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent,,,2011,5.4
+60,Yukon,Yukon,2023-12-03,,Pfizer-BioNTech Comirnaty,,,5707,15.3
+60,Yukon,Yukon,2023-12-03,,Moderna Spikevax XBB.1.5,,,6745,18.1
+60,Yukon,Yukon,2023-12-03,,Moderna Spikevax Bivalent Original/BA1,,,1575,4.2
+60,Yukon,Yukon,2023-12-03,,Moderna Spikevax Bivalent Original and BA4/BA5,,,635,1.7
+60,Yukon,Yukon,2023-12-03,,Moderna Spikevax,,,19709,52.8
+60,Yukon,Yukon,2023-12-03,,All other vaccines,,,900,2.4
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,0,0
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,0,0
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,0,0
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent,,,2554,7.3
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Pfizer-BioNTech Comirnaty,,,6665,19
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Moderna Spikevax XBB.1.5,,,1636,4.7
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Moderna Spikevax Bivalent Original/BA1,,,2011,5.7
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Moderna Spikevax Bivalent Original and BA4/BA5,,,200,0.6
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,Moderna Spikevax,,,21262,60.7
+61,Northwest Territories,Territoires du Nord-Ouest,2023-12-03,,All other vaccines,,,701,2
+62,Nunavut,Nunavut,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 (not specified),,,0,0
+62,Nunavut,Nunavut,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 6 months-4 years,,,0,0
+62,Nunavut,Nunavut,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 5-11 years,,,0,0
+62,Nunavut,Nunavut,2023-12-03,,Pfizer-BioNTech Comirnaty XBB.1.5 12 years and older,,,0,0
+62,Nunavut,Nunavut,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent Original and BA4/BA5 pediatric 6 months-4 years,,,0,0
+62,Nunavut,Nunavut,2023-12-03,,Pfizer-BioNTech Comirnaty Bivalent,,,321,0.9
+62,Nunavut,Nunavut,2023-12-03,,Pfizer-BioNTech Comirnaty,,,8644,25
+62,Nunavut,Nunavut,2023-12-03,,Moderna Spikevax XBB.1.5,,,1361,3.9
+62,Nunavut,Nunavut,2023-12-03,,Moderna Spikevax Bivalent Original/BA1,,,1676,4.8
+62,Nunavut,Nunavut,2023-12-03,,Moderna Spikevax Bivalent Original and BA4/BA5,,,0,0
+62,Nunavut,Nunavut,2023-12-03,,Moderna Spikevax,,,22609,65.3
+62,Nunavut,Nunavut,2023-12-03,,All other vaccines,,,6,<0.1
